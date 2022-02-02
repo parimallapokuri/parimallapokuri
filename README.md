@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😄 I'm Parimalla Pokuri
+- 🔭 I’m currently working on github repositories
+- 🌱 I’m currently learning computer science programmes
+- 💬 I have completed my under graduation in Electronics and Communication Engineering
+- 📫 I'm currently living in Maryville for doing masters in Northwest Missouri State University
+- 😄 I want to gain more knowledge on Cloud Computing
+- ⚡ My hobbies are listening to music, playing badminton and Reading books
